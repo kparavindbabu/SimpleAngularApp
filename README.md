@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## NG Ant design
+https://ng.ant.design/components/input/en
+
+
+
+# References:
+
+Change deduction:
+https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+https://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+https://egghead.io/lessons/rxjs-rxjs-observables-vs-promises
+https://medium.com/@jshvarts/read-marble-diagrams-like-a-pro-3d72934d3ef5
+https://angular.dev/guide/experimental/zoneless
